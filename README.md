@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+```
                    .~vVeZNgQBBBQQg9Ze1v~.                   
               `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 
            -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -------------------
@@ -39,7 +39,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
           `vR#@@@@@@@@?              M@@@@@@@@#Pv`             
               "Lf8@@@@v              q@@@#Qa?:                 
                   -!v|`              _?v!`                     
-
+```
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
 <code>🌱 I’m currently learning <bold>Rust</bold></code>
 <br>
