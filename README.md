@@ -51,4 +51,4 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/j3rr7)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j3rr7)](https://github.com/anuraghazra/github-readme-stats)
