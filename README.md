@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
-<code>🌱 I’m currently learning <bold>Rust</bold></code>
 <br>
-<summary><details>📫 How to reach me  jeremyfanuel1@gmail.com</details></summary>
+<summary><details>📫 How to reach me  justdev@jerem.my.id</details></summary>
 
 ```
                    .~vVeZNgQBBBQQg9Ze1v~.                   
@@ -28,7 +27,7 @@ Here are some ideas to get you started:
     `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Home: /usr/jere
    ;0@@@@@@@@0      @@@@@@@@@@@@@@@@@@@       P@@@@@@@@0.      contact information
   ?@@@@@@@@@@q                                z@@@@@@@@@#?     -------------------
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Website: (upcoming)
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Website: https://jerem.my.id
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Discord: Jere_ID#2525
 a@@@@@@@@@@2                                    v@@@@@@@@@@;   Github: j3rr7
 #@@@@@@@@@@_                                     @@@@@@@@@@y   compiling projects
