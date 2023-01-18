@@ -78,6 +78,6 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 ![Freelancer](https://img.shields.io/badge/-Freelancer-000?&logo=freelancer&style=for-the-badge)
 
 ### Github Stats
-[![](https://github-readme-stats.vercel.app/api?username=j3rr7&count_private=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats-69675kasy-j3rr7.vercel.app/api?username=j3rr7&count_private=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=j3rr7&layout=compact&count_private=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats-69675kasy-j3rr7.vercel.app/api/top-langs/?username=j3rr7&layout=compact&count_private=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
