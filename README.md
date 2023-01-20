@@ -72,7 +72,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 ### Support Me
 [![Support Me](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/j3rr7)
 
-![Bitcoin](https://img.shields.io/badge/Bitcoin-37v3GkGK6PkDrKN5knbeo8dFyesUMY4u2M-blue?style=for-the-badge&logo=bitcoin)]
+![Bitcoin](https://img.shields.io/badge/Bitcoin-37v3GkGK6PkDrKN5knbeo8dFyesUMY4u2M-blue?style=for-the-badge&logo=bitcoin)
 BTC: 37v3GkGK6PkDrKN5knbeo8dFyesUMY4u2M
 
 ![Doge](https://img.shields.io/badge/Doge-DRnyYsgU6AyaMkBkC4ZsmbRrjQfNLzww6n-blue?style=for-the-badge&logo=dogecoin)
