@@ -73,18 +73,23 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 [![Support Me](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/j3rr7)
 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-37v3GkGK6PkDrKN5knbeo8dFyesUMY4u2M-blue?style=for-the-badge&logo=bitcoin)
+
 BTC: 37v3GkGK6PkDrKN5knbeo8dFyesUMY4u2M
 
 ![Doge](https://img.shields.io/badge/Doge-DRnyYsgU6AyaMkBkC4ZsmbRrjQfNLzww6n-blue?style=for-the-badge&logo=dogecoin)
+
 Doge: DRnyYsgU6AyaMkBkC4ZsmbRrjQfNLzww6n
 
 ![ETH](https://img.shields.io/badge/ETH-0xF035a5E69EFa089e0C82E2cfD0DE9D651a6867ce-blue?style=for-the-badge&logo=ethereum)
+
 ETH: 0xF035a5E69EFa089e0C82E2cfD0DE9D651a6867ce
 
 ![Litecoin](https://img.shields.io/badge/Litecoin-M8qeu9vAauY8Ui2ERugCAixhZxMVuELPGa-blue?style=for-the-badge&logo=litecoin)
+
 Lite: M8qeu9vAauY8Ui2ERugCAixhZxMVuELPGa
 
 ![XRP](https://img.shields.io/badge/XRP-rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg:::ucl:::12561989-blue?style=for-the-badge&logo=xrp)
+
 XRP: rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg:::ucl:::12561989
 
 ### Github Stats
