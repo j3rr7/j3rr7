@@ -70,7 +70,13 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 [![](https://img.shields.io/badge/-Line-000?&logo=line&style=for-the-badge)](https://line.me/R/ti/p/j3rr71)
 
 ### Support Me
-[![Support Me](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/j3rr7)
+Your support does helps me a lot.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/j3rr7)
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/OridinaryPeople)
+
+[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-29abe0?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/j3rr7)
 
 ### Github Stats
 [![](https://github-readme-stats-69675kasy-j3rr7.vercel.app/api?username=j3rr7&count_private=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
