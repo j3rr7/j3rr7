@@ -79,6 +79,6 @@ Your support does helps me a lot.
 [![Ko-Fi](https://img.shields.io/badge/Ko--Fi-29abe0?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/j3rr7)
 
 ### Github Stats
-[![](https://github-readme-stats-69675kasy-j3rr7.vercel.app/api?username=j3rr7&count_private=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats-gray-sigma.vercel.app/api?username=j3rr7&count_private=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://github-readme-stats-69675kasy-j3rr7.vercel.app/api/top-langs/?username=j3rr7&layout=compact&count_private=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats-gray-sigma.vercel.app/api/top-langs/?username=j3rr7&layout=compact&count_private=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
