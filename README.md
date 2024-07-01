@@ -4,18 +4,18 @@
                    .~vVeZNgQBBBQQg9Ze1v~.                      Hello I'm Jeremy, a software engineer. 
               `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 
            -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -------------------
-        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           Editors: JetBrains
-      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Crontab: Coding, Reversing, Hacking, and more.
+        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           Editors: JetBrains / Fleet / VSCodium
+      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Crontab: Coding Web App, Desktop App, Mobile App ...
     `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Home: /usr/jere
-   ;0@@@@@@@@0      @@@@@@@@@@@@@@@@@@@       P@@@@@@@@0.      contact information
+   ;0@@@@@@@@0      @@@@@@@@@@@@@@@@@@@       P@@@@@@@@0.      Contact Information
   ?@@@@@@@@@@q                                z@@@@@@@@@#?     -------------------
  :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Website: https://jerem.my.id
-_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Discord: Jere_ID#2525
+_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Discord: j3rr7
 a@@@@@@@@@@2                                    v@@@@@@@@@@;   Github: j3rr7
-#@@@@@@@@@@_                                     @@@@@@@@@@y   compiling projects
-@@@@@@@@@@@.                                     @@@@@@@@@@%   ------------------
-#@@@@@@@@@@r                                    :@@@@@@@@@@s   
-W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   
+#@@@@@@@@@@_                                     @@@@@@@@@@y   Mail: jeremy@jerem.my.id
+@@@@@@@@@@@.                                     @@@@@@@@@@%   [Red🍎][Yellow⭐][Blue📘]
+#@@@@@@@@@@r                                    :@@@@@@@@@@s   compiling projects...
+W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   ------------------
 ~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    
  ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    
   n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     
@@ -39,8 +39,8 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&style=for-the-badge)
 ![Lua](https://img.shields.io/badge/-Lua-000?&logo=lua&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396&style=for-the-badge)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&style=for-the-badge)
+![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-000?&logo=Postgresql&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-html5-000?&logo=html5&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-css3-000?&logo=css3&style=for-the-badge)
 ![Tailwind](https://img.shields.io/badge/-tailwindCss-000?&logo=tailwindcss&style=for-the-badge)
@@ -69,14 +69,21 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 [![](https://img.shields.io/badge/-Line-000?&logo=line&style=for-the-badge)](https://line.me/R/ti/p/j3rr7)
 [![](https://img.shields.io/badge/-Line-000?&logo=line&style=for-the-badge)](https://line.me/R/ti/p/j3rr71)
 
-### Support Me
-Your support does helps me a lot.
+### **Support Me**
+Your support does helps a lot.
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/j3rr7)
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/OridinaryPeople)
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--Fi-29abe0?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/j3rr7)
+
+* **GitHub Sponsors:** [Become a sponsor](https://github.com/sponsors/j3rr7)
+* **Cryptocurrency:**
+    * Bitcoin (BTC): `bc1q3vnlnt25fsjxnjt6dw7dk6d7t40yt4sc3d3upt`
+    * Ethereum (ETH): `0xEc76e222A532d24657eaaBd65C4dE0Fc804477d7`
+
+Thank you for your generosity!
 
 ### Github Stats
 [![](https://github-readme-stats-gray-sigma.vercel.app/api?username=j3rr7&count_private=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
