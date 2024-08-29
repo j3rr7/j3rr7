@@ -78,6 +78,8 @@ Your support does helps a lot.
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--Fi-29abe0?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/j3rr7)
 
+[Rp 5k Tip (Trakteer)](https://trakteer.id/j3rr7/tip)
+
 * **GitHub Sponsors:** [Become a sponsor](https://github.com/sponsors/j3rr7)
 * **Cryptocurrency:**
     * Bitcoin (BTC): `bc1q3vnlnt25fsjxnjt6dw7dk6d7t40yt4sc3d3upt`
