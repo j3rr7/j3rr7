@@ -63,9 +63,9 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   -----------------
 ### Contact me
 [![](https://img.shields.io/badge/-GitHub-000?&logo=github&style=for-the-badge)](https://github.com/j3rr7)
 [![](https://img.shields.io/badge/-Linkedin-000?&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jere-id)
-[![](https://img.shields.io/badge/-Email-000?&logo=maildotru&style=for-the-badge)](mailto:justdev@jerem.my.id)
+[![](https://img.shields.io/badge/-Email-000?&logo=maildotru&style=for-the-badge)](mailto:jeremy@jerem.my.id)
 [![](https://img.shields.io/badge/-GMail-000?&logo=gmail&style=for-the-badge)](mailto:adgrygry12348@gmail.com)
-![Discord](https://img.shields.io/badge/-Jere_2525-000?&logo=discord&style=for-the-badge)
+![Discord](https://img.shields.io/badge/-j3rr7-000?&logo=discord&style=for-the-badge)
 [![](https://img.shields.io/badge/-Line-000?&logo=line&style=for-the-badge)](https://line.me/R/ti/p/j3rr7)
 [![](https://img.shields.io/badge/-Line-000?&logo=line&style=for-the-badge)](https://line.me/R/ti/p/j3rr71)
 
