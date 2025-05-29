@@ -88,6 +88,6 @@ Your support does helps a lot.
 Thank you for your generosity!
 
 ### Github Stats
-[![](https://github-readme-stats-gray-sigma.vercel.app/api?username=j3rr7&count_private=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats-iota-pink-50.vercel.app/api?username=j3rr7&count_private=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://github-readme-stats-gray-sigma.vercel.app/api/top-langs/?username=j3rr7&layout=compact&count_private=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats-iota-pink-50.vercel.app/api/top-langs/?username=j3rr7&layout=compact&count_private=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
