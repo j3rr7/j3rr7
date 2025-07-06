@@ -81,11 +81,16 @@ Your support does helps a lot.
 [Rp 5k Tip (Trakteer)](https://trakteer.id/j3rr7/tip)
 
 * **GitHub Sponsors:** [Become a sponsor](https://github.com/sponsors/j3rr7)
-* **Cryptocurrency:**
-    * Bitcoin (BTC): `bc1q3vnlnt25fsjxnjt6dw7dk6d7t40yt4sc3d3upt`
-    * Ethereum (ETH): `0xEc76e222A532d24657eaaBd65C4dE0Fc804477d7`
 
-Thank you for your generosity!
+I also accept donations in various cryptocurrencies
+* **Cryptocurrency:**
+    * Bitcoin (BTC): `bc1qjrezpvufxrw9s2gusp3gdnqlr75vfmr9eef7wq`
+    * Ethereum (ETH): `0x16Fa8bB795DEF67D5A1bF809613C6d8bc636473F`
+    * Monero (XMR): `48tzoPhWPBqgiqcKYDpuuvc9J4XBbJGocKzyN2cC7EXoFo1957Sg2Nq5LQLMR9tzPKavqPdYAqFepJMKGxKXXwL6Vfbr1Mz`
+    * NEAR (NEAR): `3ae1fc89cb8191223eb86cc597b95f1126bf3c6e427a15fa4ce7e870a6b66195`
+    * 
+
+Thank you for your generosity! Your support makes a real difference. 🙏
 
 ### Github Stats
 [![](https://github-readme-stats-iota-pink-50.vercel.app/api?username=j3rr7&count_private=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
