@@ -99,3 +99,5 @@ Thank you for your generosity! Your support makes a real difference. 🙏
 [![](https://github-readme-stats-iota-pink-50.vercel.app/api?username=j3rr7&count_private=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://github-readme-stats-iota-pink-50.vercel.app/api/top-langs/?username=j3rr7&layout=compact&count_private=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![](https://github-readme-stats-iota-pink-50.vercel.app/api/wakatime?username=j3rr7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
