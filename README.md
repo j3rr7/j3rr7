@@ -96,8 +96,8 @@ Thank you for your generosity! Your support makes a real difference. 🙏
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=j3rr7&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![](https://github-readme-stats-iota-pink-50.vercel.app/api?username=j3rr7&count_private=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://readme-stats-weld-nine.vercel.app/api?username=j3rr7&count_private=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://github-readme-stats-iota-pink-50.vercel.app/api/top-langs/?username=j3rr7&layout=compact&count_private=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![]([https://readme-stats-weld-nine.vercel.app](https://readme-stats-weld-nine.vercel.app)/api/top-langs/?username=j3rr7&layout=compact&count_private=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://github-readme-stats-iota-pink-50.vercel.app/api/wakatime?username=j3rr7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![]([https://readme-stats-weld-nine.vercel.app](https://readme-stats-weld-nine.vercel.app)/api/wakatime?username=j3rr7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
