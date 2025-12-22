@@ -84,11 +84,12 @@ Your support does helps a lot.
 
 I also accept donations in various cryptocurrencies
 * **Cryptocurrency:**
-    * Bitcoin (BTC): `bc1qjrezpvufxrw9s2gusp3gdnqlr75vfmr9eef7wq`
-    * Ethereum (ETH): `0x16Fa8bB795DEF67D5A1bF809613C6d8bc636473F`
-    * Monero (XMR): `48tzoPhWPBqgiqcKYDpuuvc9J4XBbJGocKzyN2cC7EXoFo1957Sg2Nq5LQLMR9tzPKavqPdYAqFepJMKGxKXXwL6Vfbr1Mz`
-    * NEAR (NEAR): `3ae1fc89cb8191223eb86cc597b95f1126bf3c6e427a15fa4ce7e870a6b66195`
-    * 
+  - BTC: bc1qd8yz9flypvnd0mnvlanz8r79yad8zvnlmn4dmn
+  - ETH: 0x16fa8bb795def67d5a1bf809613c6d8bc636473f
+  - SOL: Axs4uebDHnmGKLY9tna33LaH3BgLCKaBCiwzETPuQKhC
+  - BNB (BNB Smart Chain): 0x16fa8bb795def67d5a1bf809613c6d8bc636473f
+  - XRP: rGJMbxuVsxBbsUPDmePdgMWRPP2muJ4Sdo
+  - NEAR: 3ae1fc89cb8191223eb86cc597b95f1126bf3c6e427a15fa4ce7e870a6b66195
 
 Thank you for your generosity! Your support makes a real difference. 🙏
 
