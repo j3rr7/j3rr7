@@ -95,10 +95,6 @@ Thank you for your generosity! Your support makes a real difference. 🙏
 
 ### Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=j3rr7&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=j3rr7&theme=github-dark-blue)](https://git.io/streak-stats)
 
-[![](https://readme-stats-weld-nine.vercel.app/api?username=j3rr7&count_private=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![]([https://readme-stats-weld-nine.vercel.app](https://readme-stats-weld-nine.vercel.app)/api/top-langs/?username=j3rr7&layout=compact&count_private=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![]([https://readme-stats-weld-nine.vercel.app](https://readme-stats-weld-nine.vercel.app)/api/wakatime?username=j3rr7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/j3rr7?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
