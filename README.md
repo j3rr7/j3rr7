@@ -69,29 +69,24 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   -----------------
 [![](https://img.shields.io/badge/-Line-000?&logo=line&style=for-the-badge)](https://line.me/R/ti/p/j3rr7)
 [![](https://img.shields.io/badge/-Line-000?&logo=line&style=for-the-badge)](https://line.me/R/ti/p/j3rr71)
 
-### **Support Me**
-Your support does helps a lot.
+### 💖 Support My Work
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/j3rr7)
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/OridinaryPeople)
+If you find my projects helpful, consider supporting my work! Your generosity keeps these projects alive, well-maintained, and free for everyone.
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--Fi-29abe0?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/j3rr7)
 
-[Rp 5k Tip (Trakteer)](https://trakteer.id/j3rr7/tip)
+#### Cryptocurrency Donations
 
-* **GitHub Sponsors:** [Become a sponsor](https://github.com/sponsors/j3rr7)
+You can also support me by sending crypto to the addresses below:
 
-I also accept donations in various cryptocurrencies
-* **Cryptocurrency:**
-  - BTC: bc1qd8yz9flypvnd0mnvlanz8r79yad8zvnlmn4dmn
-  - ETH: 0x16fa8bb795def67d5a1bf809613c6d8bc636473f
-  - SOL: Axs4uebDHnmGKLY9tna33LaH3BgLCKaBCiwzETPuQKhC
-  - BNB (BNB Smart Chain): 0x16fa8bb795def67d5a1bf809613c6d8bc636473f
-  - XRP: rGJMbxuVsxBbsUPDmePdgMWRPP2muJ4Sdo
-  - NEAR: 3ae1fc89cb8191223eb86cc597b95f1126bf3c6e427a15fa4ce7e870a6b66195
+| Chain / Coin | Wallet Address |
+| --- | --- |
+| **Bitcoin (BTC)** | `bc1qd8yz9flypvnd0mnvlanz8r79yad8zvnlmn4dmn` |
+| **Ethereum (ETH ERC20)** | `0x16fa8bb795def67d5a1bf809613c6d8bc636473f` |
+| **Tether (USDT ERC20)** | `0x16fa8bb795def67d5a1bf809613c6d8bc636473f` |
+| **MONERO (XMR)** | `4AdhnASxBQjhHfxchQPSfTPa5DXwCgG7EDbmbJvGqz57QbqQfhgDrthY9o94tNiRppJidSuTZrb5Jfx7BzdbkodZG699atA` |
 
-Thank you for your generosity! Your support makes a real difference. 🙏
+> 💡 **Thank you!** Every single contribution, no matter the size, is deeply appreciated.
 
 ### Github Stats
 
