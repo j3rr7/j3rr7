@@ -90,6 +90,8 @@ You can also support me by sending crypto to the addresses below:
 
 ### Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=j3rr7&theme=github-dark-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=j3rr7&theme=dark&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://nice-readme.vercel.app/streak-stats)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/j3rr7?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+
+[![Top Repo Languages](https://helio-github-stats.vercel.app/api/top-langs?username=j3rr7&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Top+Repo+Languages)](https://nice-readme.vercel.app/top-langs)
